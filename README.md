@@ -4,114 +4,93 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&variant=living-identity&label=BRAJESH%20KUMAR&v=wow-living-identity-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&variant=living-identity&label=BRAJESH%20KUMAR&v=wow-living-identity-1&mode=dark" width="100%" alt="BRAJESH KUMAR animated Living Identity portrait and ASCII name" />
+  <img src="https://www.gitskins.com/api/section/hero?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&variant=living-identity&label=BRAJESH%20KUMAR&v=wow-living-identity-1&mode=dark" width="100%" alt="Brajesh Kumar animated GitSkins profile banner" />
 </picture>
-<p><strong>AI/ML • Computer Vision • Software Development</strong> · Pune, Maharashtra</p>
-<p>B.Tech AI &amp; Data Science student with hands-on experience building computer-vision and AI applications, web apps, and progressive web apps. Completed an AI-ML internship focused on a video threat-detection pipeline and developed practical tools for attendance management and motorsport cost reporting. Interested in AI/ML and software development internship opportunities.</p>
-<p><a href="https://github.com/not-brajesh">GitHub</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/not-brajesh">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:kbrajesh5688@gmail.com">Email</a></p>
+
+<p><strong>AI/ML · Computer Vision · Software Development</strong><br />Pune, Maharashtra</p>
+
+<p>
+  <a href="https://github.com/not-brajesh">GitHub</a> ·
+  <a href="https://linkedin.com/in/not-brajesh">LinkedIn</a> ·
+  <a href="mailto:kbrajesh5688@gmail.com">Email</a>
+</p>
+
 </div>
 
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-<h2>Identity, with signal</h2>
+## About me
 
-<table width="100%" style="display:table;width:100%;table-layout:fixed;">
-<tr>
-<td width="62%" valign="top"><p>B.Tech AI &amp; Data Science student with hands-on experience building computer-vision and AI applications, web apps, and progressive web apps. Completed an AI-ML internship focused on a video threat-detection pipeline and developed practical tools for attendance management and motorsport cost reporting. Interested in AI/ML and software development internship opportunities.</p><p><strong>Focus:</strong> `NETRA-AI` · `Tutor Attendance Record App` · `SUPRA SAEINDIA Cost Report App`</p><p><sub>Thoughtful collaboration, ambitious products, and useful open source.</sub></p></td>
-<td width="38%" valign="top"><p><code>LIVE SIGNAL</code></p><p><strong>13</strong> repos<br /><strong>0</strong> stars<br /><strong>786</strong> contributions<br /><strong>3</strong> followers</p></td>
-</tr>
-</table>
+I am a B.Tech Artificial Intelligence & Data Science student building computer-vision and AI applications, web apps, and progressive web apps. I completed an AI-ML internship focused on a video threat-detection pipeline and enjoy turning practical problems into useful software.
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+Currently interested in AI/ML and software development internship opportunities.
 
-<h2>What moves the work</h2>
+## Technical skills
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&items=NETRA-AI%3A%3ACurrent%20focus%7CTutor%20Attendance%20Record%20App%3A%3AIn%20the%20build%20queue%7CSUPRA%20SAEINDIA%20Cost%20Report%20App%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/highlights?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&items=NETRA-AI%3A%3ACurrent%20focus%7CTutor%20Attendance%20Record%20App%3A%3AIn%20the%20build%20queue%7CSUPRA%20SAEINDIA%20Cost%20Report%20App%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=dark" width="100%" alt="BRAJESH KUMAR animated profile highlights" />
-</picture>
+| Area | Skills |
+| --- | --- |
+| Programming | Python, C, C++ |
+| Web | HTML, CSS, JavaScript, React |
+| AI/ML | Machine Learning, Computer Vision, OpenCV, Vision-Language Models |
+| Tools & concepts | Git, GitHub, SQL, Data Structures, Algorithms, OOP, Problem Solving |
 
-<p align="center"><sub>Positioning is useful when the proof is close behind it.</sub></p>
+## Experience
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+### AI-ML Intern · Armedu
+**15 December 2025 – 15 February 2026**
 
-<h2>The tools behind the signal</h2>
+- Developed an AI-powered Video Threat Detection System using a vision-language model, LLaVA-7B via Ollama, Python, and OpenCV.
+- Built a modular pipeline for frame extraction, person detection and tracking, motion/direction analysis, relationship analysis, and rule-based threat detection.
+- Generated structured JSON outputs for detections and threat events.
+- Tested person filtering, direction tracking, and threat-detection logic.
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&variant=wow&v=wow-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&variant=wow&v=wow-stack-1&mode=dark" width="100%" alt="BRAJESH KUMAR animated technology stack" />
-</picture>
+## Selected projects
 
-<p align="center"><sub>Python · HTML · JavaScript · TypeScript · Shell · CSS · C++ · Dockerfile · chosen for the work, not the trend</sub></p>
+### NETRA-AI · AI surveillance and threat analysis
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+An AI-powered surveillance concept featuring object detection, motion and behaviour analysis, suspicious-activity detection, scene understanding, and natural-language interaction. Led Team AXE; secured 3rd rank at INNOVYUH 2.0 and presented at MGM Nanded GDG HackSpectra 2.0.
 
-<h2>Built, shipped, shared</h2>
+### [Tutor Attendance Record App](https://attendance-record-nine.vercel.app/) · Web app
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&repos=not-brajesh%2FPratiksha%2Cnot-brajesh%2Fnotweb%2Cnot-brajesh%2FCabinSpect%2Cnot-brajesh%2FAttendance-Record&variant=wow&v=wow-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&repos=not-brajesh%2FPratiksha%2Cnot-brajesh%2Fnotweb%2Cnot-brajesh%2FCabinSpect%2Cnot-brajesh%2FAttendance-Record&variant=wow&v=wow-projects-1&mode=dark" width="100%" alt="BRAJESH KUMAR animated project constellation" />
-</picture>
+A web app for tutors to record student attendance, calculate per-class payments, and export records to Excel. Data is stored locally on the device.
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&repos=not-brajesh%2FPratiksha%2Cnot-brajesh%2Fnotweb%2Cnot-brajesh%2FCabinSpect%2Cnot-brajesh%2FAttendance-Record&variant=wow-timeline&v=wow-timeline-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&repos=not-brajesh%2FPratiksha%2Cnot-brajesh%2Fnotweb%2Cnot-brajesh%2FCabinSpect%2Cnot-brajesh%2FAttendance-Record&variant=wow-timeline&v=wow-timeline-1&mode=dark" width="100%" alt="BRAJESH KUMAR animated project launch timeline" />
-</picture>
+### [SUPRA SAEINDIA Cost Report App](https://not-brajesh.github.io/Cost-Report-App-for-Supra/) · Progressive web app
 
-<table width="100%">
-<tr>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/not-brajesh/Pratiksha">Pratiksha</a></strong></p><p>A selected project from this public body of work.</p><p><sub>HTML · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/not-brajesh/notweb">notweb</a></strong></p><p>A selected project from this public body of work.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/not-brajesh/CabinSpect">CabinSpect</a></strong></p><p>A selected project from this public body of work.</p><p><sub>HTML · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/not-brajesh/Attendance-Record">Attendance-Record</a></strong></p><p>A selected project from this public body of work.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
-</tr>
-</table>
+A responsive PWA for Javitron Racing with offline support and PDF/Excel export.
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+### [Team Javitron Racing Website](https://not-brajesh.github.io/Javitron/) · Team website
 
-<h2>Momentum, made visible</h2>
+The Formula Student team website with responsive UI, interactive/3D-led sections, and animations.
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&variant=wow&v=wow-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&variant=wow&v=wow-stats-1&mode=dark" width="100%" alt="BRAJESH KUMAR animated GitHub signal" />
-</picture>
+### QR Attendance System · Offline-first web app/PWA
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+A QR-based attendance web app/PWA with offline support and attendance-data export.
 
-<h2>The trail behind the work</h2>
+## Leadership & hands-on experience
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&variant=wow&v=wow-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&variant=wow&v=wow-heatmap-1&mode=dark" width="100%" alt="BRAJESH KUMAR contribution energy field" />
-</picture>
+- Team Javitron Racing · SUPRA SAEINDIA Student Formula 2026 participant, contributing to web development and manufacturing.
+- Hands-on manufacturing exposure in welding, cutting, grinding, dimensional measurement, and base-plate fabrication.
+- Smart India Hackathon 2025 participant with an AI-powered train-traffic-control project.
 
-<p align="center"><sub>4 day current streak · 43 active days</sub></p>
+## Education
+
+**B.Tech, Artificial Intelligence & Data Science**  
+Ajeenkya D. Y. Patil University, Pune · **2025–2029 (Expected)**  
+Academic status: 3rd semester · Last-semester SGPA: **8.0**
+
+## Certifications
+
+- HackerRank Problem Solving (Basic)
+- HackerRank Problem Solving (Intermediate)
+- AWS Foundations of Prompt Engineering
+- AWS Generative AI Learning Plan for Decision Makers · November 2025
+- upGrad Basic Python Programming · November 2025
 
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
 <div align="center">
-<p><sub>KEEP THE SIGNAL MOVING</sub></p>
-<h2>Make something worth noticing</h2>
-<p>I like working with people who care about craft, context, and shipping the useful version.</p>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&linkedin=https%3A%2F%2Flinkedin.com%2Fin%2Fnot-brajesh&email=kbrajesh5688%40gmail.com&variant=wow&v=wow-social-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&linkedin=https%3A%2F%2Flinkedin.com%2Fin%2Fnot-brajesh&email=kbrajesh5688%40gmail.com&variant=wow&v=wow-social-1&mode=dark" width="100%" alt="BRAJESH KUMAR contact links" />
-</picture>
-<p><a href="https://github.com/not-brajesh">GitHub</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/not-brajesh">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:kbrajesh5688@gmail.com">Email</a></p>
-<p><sub>BRAJESH KUMAR · Wow Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+  <p><strong>Let’s build something useful.</strong></p>
+  <p>Open to thoughtful collaboration, practical AI/ML work, and software development opportunities.</p>
+  <p><a href="https://github.com/not-brajesh">GitHub</a> · <a href="https://linkedin.com/in/not-brajesh">LinkedIn</a> · <a href="mailto:kbrajesh5688@gmail.com">kbrajesh5688@gmail.com</a></p>
+  <p><sub>BRAJESH KUMAR · Profile banner powered by <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 </div>
-
-## Experience
-
-<table>
-<tr><td width="34%" valign="top"><b>Armedu — AI-ML Intern</b><br /><sub>15 Dec 2025 – 15 Feb 2026</sub></td><td width="66%" valign="top"><ul><li>Developed an AI-powered Video Threat Detection System using a vision-language model (LLaVA-7B via Ollama) with Python and OpenCV.</li><li>Built a modular pipeline covering frame extraction, person detection and tracking, motion/direction analysis, relationship analysis, and rule-based threat detection.</li><li>Generated structured JSON outputs for detections and threat events; project tests covered person filtering, direction tracking, and threat-detection logic.</li></ul></td></tr>
-</table>
-
-<b>Education</b>
-
-- B.Tech, Artificial Intelligence &amp; Data Science — Ajeenkya D. Y. Patil University, Pune (2025–2029 – (Expected))
-
-<b>Projects</b>
-
-- <b>Team Javitron Racing Website</b> — Created the Formula Student team website with responsive UI, interactive/3D-led sections, and animations.
-- <b>QR Attendance System</b> — Created a QR-based attendance web app/PWA with offline support and attendance-data export.
