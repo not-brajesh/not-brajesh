@@ -3,8 +3,8 @@
 <p><sub>WOW PROFILE · NOT-BRAJESH · LIVE</sub></p>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&variant=living-identity&label=BRAJESH%20KUMAR&v=wow-living-identity-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&variant=living-identity&label=BRAJESH%20KUMAR&v=wow-living-identity-1&mode=dark" width="100%" alt="Brajesh Kumar animated GitSkins profile banner" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&variant=living-identity&label=PYTHON%20%2F%20C%20%2F%20C%2B%2B%20%2F%20HTML%20%2F%20CSS%20%2F%20JAVASCRIPT%20%2F%20TYPESCRIPT%20%2F%20SQL&v=wow-living-identity-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&variant=living-identity&label=PYTHON%20%2F%20C%20%2F%20C%2B%2B%20%2F%20HTML%20%2F%20CSS%20%2F%20JAVASCRIPT%20%2F%20TYPESCRIPT%20%2F%20SQL&v=wow-living-identity-1&mode=dark" width="100%" alt="Brajesh Kumar animated GitSkins profile banner showing Python, C, C++, HTML, CSS, JavaScript, TypeScript, and SQL" />
 </picture>
 
 <p><strong>AI/ML · Computer Vision · Software Development</strong><br />Pune, Maharashtra</p>
@@ -29,8 +29,8 @@ Currently interested in AI/ML and software development internship opportunities.
 
 | Area | Skills |
 | --- | --- |
-| Programming | Python, C, C++ |
-| Web | HTML, CSS, JavaScript, React |
+| Programming | Python, C, C++, TypeScript |
+| Web | HTML, CSS, JavaScript, TypeScript, React |
 | AI/ML | Machine Learning, Computer Vision, OpenCV, Vision-Language Models |
 | Tools & concepts | Git, GitHub, SQL, Data Structures, Algorithms, OOP, Problem Solving |
 
