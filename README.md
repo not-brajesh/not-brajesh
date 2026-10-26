@@ -1,24 +1,117 @@
-# 💫 About Me:
-First-year B.Tech AI & Data Science student passionate about building real-world AI systems.<br><br>I actively work on Computer Vision and Generative AI, focusing on creating intelligent, scalable, and practical solutions rather than just learning concepts.<br><br>Recently, I completed an internship at Armedu, where I built an AI-powered Video Threat Detection System using Vision-Language Models (VLMs). This experience helped me understand how to design end-to-end systems, not just models.<br><br>I have also secured 3rd rank in a GDG Hackathon as a Team Leader and worked on problem-solving, system design, and real-world AI applications.<br><br>My core focus areas include:<br>• Computer Vision<br>• Generative AI (GenAI)<br>• Machine Learning<br>• System Design & Real-world Problem Solving<br><br>I believe in learning by building, thinking in systems, and improving consistently.<br><br>Currently exploring opportunities to collaborate, learn, and contribute to impactful AI projects.<br><br>Always building. Always learning. 🚀<br>
+<div align="center">
 
+<p><sub>WOW PROFILE · NOT-BRAJESH · LIVE</sub></p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/notbrajesh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/not-brajesh/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/NotBrajeshh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@BrajeshKumar-px3rd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lbrajesh5688@gmail.com) 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&variant=living-identity&label=BRAJESH%20KUMAR&v=wow-living-identity-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&variant=living-identity&label=BRAJESH%20KUMAR&v=wow-living-identity-1&mode=dark" width="100%" alt="BRAJESH KUMAR animated Living Identity portrait and ASCII name" />
+</picture>
+<p><strong>AI/ML • Computer Vision • Software Development</strong> · Pune, Maharashtra</p>
+<p>B.Tech AI &amp; Data Science student with hands-on experience building computer-vision and AI applications, web apps, and progressive web apps. Completed an AI-ML internship focused on a video threat-detection pipeline and developed practical tools for attendance management and motorsport cost reporting. Interested in AI/ML and software development internship opportunities.</p>
+<p><a href="https://github.com/not-brajesh">GitHub</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/not-brajesh">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:kbrajesh5688@gmail.com">Email</a></p>
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Not-Brajesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Not-Brajesh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Not-Brajesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Not-Brajesh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h2>Identity, with signal</h2>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Not-Brajesh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<table width="100%" style="display:table;width:100%;table-layout:fixed;">
+<tr>
+<td width="62%" valign="top"><p>B.Tech AI &amp; Data Science student with hands-on experience building computer-vision and AI applications, web apps, and progressive web apps. Completed an AI-ML internship focused on a video threat-detection pipeline and developed practical tools for attendance management and motorsport cost reporting. Interested in AI/ML and software development internship opportunities.</p><p><strong>Focus:</strong> `NETRA-AI` · `Tutor Attendance Record App` · `SUPRA SAEINDIA Cost Report App`</p><p><sub>Thoughtful collaboration, ambitious products, and useful open source.</sub></p></td>
+<td width="38%" valign="top"><p><code>LIVE SIGNAL</code></p><p><strong>13</strong> repos<br /><strong>0</strong> stars<br /><strong>786</strong> contributions<br /><strong>3</strong> followers</p></td>
+</tr>
+</table>
 
----
-[![](https://visitcount.itsvg.in/api?id=Not-Brajesh&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2>What moves the work</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&items=NETRA-AI%3A%3ACurrent%20focus%7CTutor%20Attendance%20Record%20App%3A%3AIn%20the%20build%20queue%7CSUPRA%20SAEINDIA%20Cost%20Report%20App%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&items=NETRA-AI%3A%3ACurrent%20focus%7CTutor%20Attendance%20Record%20App%3A%3AIn%20the%20build%20queue%7CSUPRA%20SAEINDIA%20Cost%20Report%20App%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=dark" width="100%" alt="BRAJESH KUMAR animated profile highlights" />
+</picture>
+
+<p align="center"><sub>Positioning is useful when the proof is close behind it.</sub></p>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<h2>The tools behind the signal</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&variant=wow&v=wow-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&variant=wow&v=wow-stack-1&mode=dark" width="100%" alt="BRAJESH KUMAR animated technology stack" />
+</picture>
+
+<p align="center"><sub>Python · HTML · JavaScript · TypeScript · Shell · CSS · C++ · Dockerfile · chosen for the work, not the trend</sub></p>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<h2>Built, shipped, shared</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&repos=not-brajesh%2FPratiksha%2Cnot-brajesh%2Fnotweb%2Cnot-brajesh%2FCabinSpect%2Cnot-brajesh%2FAttendance-Record&variant=wow&v=wow-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&repos=not-brajesh%2FPratiksha%2Cnot-brajesh%2Fnotweb%2Cnot-brajesh%2FCabinSpect%2Cnot-brajesh%2FAttendance-Record&variant=wow&v=wow-projects-1&mode=dark" width="100%" alt="BRAJESH KUMAR animated project constellation" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&repos=not-brajesh%2FPratiksha%2Cnot-brajesh%2Fnotweb%2Cnot-brajesh%2FCabinSpect%2Cnot-brajesh%2FAttendance-Record&variant=wow-timeline&v=wow-timeline-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&repos=not-brajesh%2FPratiksha%2Cnot-brajesh%2Fnotweb%2Cnot-brajesh%2FCabinSpect%2Cnot-brajesh%2FAttendance-Record&variant=wow-timeline&v=wow-timeline-1&mode=dark" width="100%" alt="BRAJESH KUMAR animated project launch timeline" />
+</picture>
+
+<table width="100%">
+<tr>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/not-brajesh/Pratiksha">Pratiksha</a></strong></p><p>A selected project from this public body of work.</p><p><sub>HTML · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/not-brajesh/notweb">notweb</a></strong></p><p>A selected project from this public body of work.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/not-brajesh/CabinSpect">CabinSpect</a></strong></p><p>A selected project from this public body of work.</p><p><sub>HTML · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/not-brajesh/Attendance-Record">Attendance-Record</a></strong></p><p>A selected project from this public body of work.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<h2>Momentum, made visible</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&variant=wow&v=wow-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&variant=wow&v=wow-stats-1&mode=dark" width="100%" alt="BRAJESH KUMAR animated GitHub signal" />
+</picture>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<h2>The trail behind the work</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&variant=wow&v=wow-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&variant=wow&v=wow-heatmap-1&mode=dark" width="100%" alt="BRAJESH KUMAR contribution energy field" />
+</picture>
+
+<p align="center"><sub>4 day current streak · 43 active days</sub></p>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<div align="center">
+<p><sub>KEEP THE SIGNAL MOVING</sub></p>
+<h2>Make something worth noticing</h2>
+<p>I like working with people who care about craft, context, and shipping the useful version.</p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&linkedin=https%3A%2F%2Flinkedin.com%2Fin%2Fnot-brajesh&email=kbrajesh5688%40gmail.com&variant=wow&v=wow-social-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&linkedin=https%3A%2F%2Flinkedin.com%2Fin%2Fnot-brajesh&email=kbrajesh5688%40gmail.com&variant=wow&v=wow-social-1&mode=dark" width="100%" alt="BRAJESH KUMAR contact links" />
+</picture>
+<p><a href="https://github.com/not-brajesh">GitHub</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/not-brajesh">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:kbrajesh5688@gmail.com">Email</a></p>
+<p><sub>BRAJESH KUMAR · Wow Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+</div>
+
+## Experience
+
+<table>
+<tr><td width="34%" valign="top"><b>Armedu — AI-ML Intern</b><br /><sub>15 Dec 2025 – 15 Feb 2026</sub></td><td width="66%" valign="top"><ul><li>Developed an AI-powered Video Threat Detection System using a vision-language model (LLaVA-7B via Ollama) with Python and OpenCV.</li><li>Built a modular pipeline covering frame extraction, person detection and tracking, motion/direction analysis, relationship analysis, and rule-based threat detection.</li><li>Generated structured JSON outputs for detections and threat events; project tests covered person filtering, direction tracking, and threat-detection logic.</li></ul></td></tr>
+</table>
+
+<b>Education</b>
+
+- B.Tech, Artificial Intelligence &amp; Data Science — Ajeenkya D. Y. Patil University, Pune (2025–2029 – (Expected))
+
+<b>Projects</b>
+
+- <b>Team Javitron Racing Website</b> — Created the Formula Student team website with responsive UI, interactive/3D-led sections, and animations.
+- <b>QR Attendance System</b> — Created a QR-based attendance web app/PWA with offline support and attendance-data export.
