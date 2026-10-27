@@ -77,7 +77,7 @@ A QR-based attendance web app/PWA with offline support and attendance-data expor
 
 **B.Tech, Artificial Intelligence & Data Science**  
 Ajeenkya D. Y. Patil University, Pune · **2025–2029 (Expected)**  
-Academic status: 3rd semester · Last-semester SGPA: **8.0**
+Academic status: 3rd semester · 
 
 ## Certifications
 
