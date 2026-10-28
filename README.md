@@ -92,5 +92,5 @@ Academic status: 3rd semester ·
   <p><strong>Let’s build something useful.</strong></p>
   <p>Open to thoughtful collaboration, practical AI/ML work, and software development opportunities.</p>
   <p><a href="https://github.com/not-brajesh">GitHub</a> · <a href="https://linkedin.com/in/not-brajesh">LinkedIn</a> · <a href="mailto:kbrajesh5688@gmail.com">kbrajesh5688@gmail.com</a></p>
-  <p><sub>BRAJESH KUMAR · Profile banner powered by <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+  
 </div>
