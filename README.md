@@ -1,6 +1,5 @@
 <div align="center">
 
-<p><sub>WOW PROFILE · NOT-BRAJESH · LIVE</sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=not-brajesh&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F228727051%3Fu%3Dc705dbf8a79a181103792bb78472c1a35ea13634%26v%3D4&variant=living-identity&label=BRAJESH%20KUMAR&v=wow-living-identity-1&mode=light" />
