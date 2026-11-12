@@ -79,13 +79,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=not-brajesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=not-brajesh&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="github-readme-stats.vercel.app/api?username=not-brajesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="github-readme-stats.vercel.app/api/top-langs/?username=not-brajesh&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=not-brajesh&theme=tokyonight&hide_border=true" width="80%" />
+  <img src="github-readme-streak-stats.herokuapp.com/?user=not-brajesh&theme=tokyonight&hide_border=true" width="80%" />
 </div>
 
 <br/>
@@ -94,4 +94,3 @@
   <p><strong>Let’s build something useful.</strong></p>
   <p><a href="https://github.com/not-brajesh">GitHub</a> · <a href="https://linkedin.com/in/not-brajesh">LinkedIn</a> · <a href="mailto:kbrajesh5688@gmail.com">kbrajesh5688@gmail.com</a></p>
 </div>
-
