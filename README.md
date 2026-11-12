@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8&height=130&section=header&text=Brajesh%20Kumar&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=AI%20&%20Data%20Science%20Undergrad%20|%20Computer%20Vision%20Dev&descSize=15&descAlignY=68" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=101010,404040,707070,909090&height=130&section=header&text=Brajesh%20Kumar&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=50" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=50&lines=Building+Computer+Vision+%26+AI+Systems+🚀;Developing+Industrial+AI+Inspection+Pipelines;SUPRA+Formula+Student+Contributor+%F0%9F%8F%8E%EF%B8%8F;Turning+complex+problems+into+code+💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=650&height=50&lines=Building+Computer+Vision+%26+AI+Systems+🚀;Developing+Industrial+AI+Inspection+Pipelines;SUPRA+Formula+Student+Contributor+%F0%9F%8F%8E%EF%B8%8F;Turning+complex+problems+into+code+💻)](https://git.io/typing-svg)
 
 <p>
   <a href="https://github.com/not-brajesh"><img src="https://img.shields.io/badge/GitHub-not--brajesh-181717?style=for-the-badge&logo=github" /></a>
@@ -88,4 +88,3 @@
   <p><strong>Let’s build something useful.</strong></p>
   <p><a href="https://github.com/not-brajesh">GitHub</a> · <a href="https://linkedin.com/in/not-brajesh">LinkedIn</a> · <a href="mailto:kbrajesh5688@gmail.com">kbrajesh5688@gmail.com</a></p>
 </div>
-Fbra
